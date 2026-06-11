@@ -1,0 +1,17 @@
+rag_phone_project/
+│
+├── data/
+│   ├── iphone15/
+│   ├── iphone15pro/
+│   ├── iphone14/
+│   ├── galaxy_s24/
+│   ├── pixel8/
+│   └── oneplus12/
+│
+├── ingestion/
+│   ├── chunker.py
+│   ├── embedder.py
+│   ├── vectorstore.py
+│   └── ingest.py
+│
+└── chroma_db/   (auto-created)

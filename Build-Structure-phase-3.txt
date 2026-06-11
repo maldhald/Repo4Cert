@@ -1,0 +1,5 @@
+rag_phone_project/ingestion/
+│
+├── retriever.py        (already done)
+├── reranker.py         (optional but recommended)
+└── pipeline.py         (main RAG pipeline)
